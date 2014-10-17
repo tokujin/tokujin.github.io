@@ -1,10 +1,10 @@
-.. Projects documentation master file, created by
-   sphinx-quickstart on Fri Oct 17 15:38:41 2014.
+.. Nori documentation master file, created by
+   sphinx-quickstart on Fri Oct 17 16:32:49 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Projects's documentation!
-====================================
+Welcome to Nori's documentation!
+================================
 
 Contents:
 
