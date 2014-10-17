@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Nori documentation build configuration file, created by
-# sphinx-quickstart on Fri Oct 17 16:32:49 2014.
+# sphinx-quickstart on Fri Oct 17 16:38:31 2014.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -37,6 +37,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinxtogithub'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -76,7 +77,7 @@ release = '0.1.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = []
+exclude_patterns = ['_build']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
